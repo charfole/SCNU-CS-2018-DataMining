@@ -17,9 +17,9 @@ def splitData(dataSet):  
     return np.array(character),np.array(label)
     
 # 读数据
-WS1 = pd.read_excel('churn_training_scale.xlsx')
+WS1 = pd.read_excel('./data/churn_training_scale.xlsx')
 data1 = np.array(WS1)
-WS2 = pd.read_excel('churn_test_scale.xlsx')
+WS2 = pd.read_excel('./data/churn_test_scale.xlsx')
 data2 = np.array(WS2)
 
 X_train,y_train = splitData(data1)
@@ -58,9 +58,9 @@ def splitData(dataSet):  
     return np.array(character),np.array(label)
     
 # 读数据
-WS1 = pd.read_excel('churn_training_scale.xlsx')
+WS1 = pd.read_excel('./data/churn_training_scale.xlsx')
 data1 = np.array(WS1)
-WS2 = pd.read_excel('churn_test_scale.xlsx')
+WS2 = pd.read_excel('./data/churn_test_scale.xlsx')
 data2 = np.array(WS2)
 
 X_train,y_train = splitData(data1)

@@ -25,7 +25,7 @@
 
 为了能够实时查看到数据，我和项目成员选取了 Jupyter Notebook 的方式在 [Colab](https://colab.research.google.com/notebooks/intro.ipynb) 上进行实验。如果你此前没有配置过相关的环境，在此极力推荐在线的 Jupyter Notebook环境（[Colab](https://colab.research.google.com/notebooks/intro.ipynb) , [Kaggle](https://www.kaggle.com/notebooks?sortBy=dateRun&tab=profile)）进行实验，以免花费太多不必要的精力在配置环境和安装依赖库中。
 
-所有 ipynb 均可在 [Colab](https://colab.research.google.com/notebooks/intro.ipynb) 上直接运行，但不排除会因为没有 pip 安装库等原因导致一些小 bug 出现。
+所有 .ipynb 文件 均可在 [Colab](https://colab.research.google.com/notebooks/intro.ipynb) 上直接运行，但不排除会因为没有 pip 安装库等原因导致一些小 bug 出现。
 
 
 

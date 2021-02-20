@@ -5,46 +5,45 @@
 
 ## 项目结构
 
-```
+
 SCNU-CS-2018-DataMining
 ├─ LICENSE		
 ├─ images
 │    ├─ 项目一简介.png
 │    ├─ 项目二简介.png
-├─ Project-1											平时项目（用四种方法进行实验）
-│    ├─ LogisticRegression.ipynb						逻辑回归 
-│    ├─ MLP.ipynb										多层感知机
-│    ├─ decision_tree.ipynb								决策树（效果最好）
-│    ├─ SVM.py											SVM	
+├─ Project-1											 平时项目（用四种方法进行实验）
+│    ├─ LogisticRegression.ipynb						 逻辑回归 
+│    ├─ MLP.ipynb										 多层感知机
+│    ├─ decision_tree.ipynb								 决策树（效果最好）
+│    ├─ SVM.py											 SVM	
 │    ├─ data
-│    │    ├─ churn_training.xlsx						训练集
-│    │    ├─ churn_test.xlsx							测试集
-│    │    ├─ churn_training_scale.csv					归一化后的训练集（csv）
-│    │    └─ churn_training_scale.xlsx					归一化后的训练集（xlsx）
-│    │    ├─ churn_test_scale.csv						归一化后的测试集（csv）
-│    │    ├─ churn_test_scale.xlsx						归一化后的测试集（xlsx）
+│    │    ├─ churn_training.xlsx						 训练集
+│    │    ├─ churn_test.xlsx							 测试集
+│    │    ├─ churn_training_scale.csv					 归一化后的训练集（csv）
+│    │    └─ churn_training_scale.xlsx					 归一化后的训练集（xlsx）
+│    │    ├─ churn_test_scale.csv						 归一化后的测试集（csv）
+│    │    ├─ churn_test_scale.xlsx						 归一化后的测试集（xlsx）
 │    └─ information
 │           ├─ 实验报告.pdf								 实验报告
 │           └─ 项目要求.doc								 项目要求
 ├─ Project-2
-│    ├─ Data exploration and preprocessing.ipynb	    数据探索与预处理
-│    ├─ FinalProjectFeatureSelection.ipynb				特征工程			
-│    ├─ SupervisedRegression.ipynb						有监督学习（回归任务）
-│    └─ supervised_learning_clf.ipynb					有监督学习（分类任务）
-│    ├─ Semi_supervised_learning.ipynb					半监督学习
+│    ├─ Data exploration and preprocessing.ipynb	     数据探索与预处理
+│    ├─ FinalProjectFeatureSelection.ipynb				 特征工程			
+│    ├─ SupervisedRegression.ipynb						 有监督学习（回归任务）
+│    └─ supervised_learning_clf.ipynb					 有监督学习（分类任务）
+│    ├─ Semi_supervised_learning.ipynb					 半监督学习
 │    ├─ data											
-│    │    ├─ data_depression.xlsx						原始数据集
-│    │    ├─ 138rows_before.xlsx						特征工程前
-│    │    ├─ 138rows_after.xlsx							特征工程后						
-│    │    ├─ RandomForestFeatureSelectionOfDatastd.xlsx	特征选择后的训练集
-│    │    ├─ 分类数据集.xlsx								 用于分类任务的数据集
-│    │    └─ 回归数据集.xlsx								 用于回归任务的数据集
+│    │    ├─ data_depression.xlsx						 原始数据集
+│    │    ├─ 138rows_before.xlsx						 特征工程前
+│    │    ├─ 138rows_after.xlsx							 特征工程后						
+│    │    ├─ RandomForestFeatureSelectionOfDatastd.xlsx	 特征选择后的训练集
+│    │    ├─ 分类数据集.xlsx							 用于分类任务的数据集
+│    │    └─ 回归数据集.xlsx							 用于回归任务的数据集
 │    ├─ information
 │    │    ├─ 实验报告.pdf								  实验报告
 │    │    ├─ 期末汇报.pptx								  期末汇报PPT
 │    │    └─ 项目要求.doc								  项目要求
 └─ README.md
-```
 
 
 

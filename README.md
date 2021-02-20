@@ -5,9 +5,8 @@
 
 ## 项目结构
 
-
-SCNU-CS-2018-DataMining
-├─ LICENSE		
+```shell
+SCNU-CS-2018-DataMining		
 ├─ images
 │    ├─ 项目一简介.png
 │    ├─ 项目二简介.png
@@ -44,7 +43,7 @@ SCNU-CS-2018-DataMining
 │    │    ├─ 期末汇报.pptx								  期末汇报PPT
 │    │    └─ 项目要求.doc								  项目要求
 └─ README.md
-
+```
 
 
 ## 项目一简介
